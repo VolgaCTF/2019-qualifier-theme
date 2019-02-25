@@ -4,7 +4,7 @@ const router = express.Router()
 
 router.get('/welcome/subject', function (req, res) {
   res.set('Content-Type', 'text/plain')
-  res.send('Welcome to VolgaCTF 2018 Quals!')
+  res.send('Welcome to VolgaCTF 2019 Qualifier!')
 })
 
 router.get('/welcome/plain', function (req, res) {

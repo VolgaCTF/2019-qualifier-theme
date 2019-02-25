@@ -1,16 +1,16 @@
 {
-  "name": "quals-2018-volgactf-customizer",
-  "version": "0.1.0",
-  "description": "Themis Quals default customization package for VolgaCTF 2018 Quals competition",
+  "name": "volgactf-2019-qualifier-theme",
+  "version": "1.0.0",
+  "description": "VolgaCTF 2019 Qualifier theme",
   "main": "bin/server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VolgaCTF/quals-2018-volgactf-customizer.git"
+    "url": "git+https://github.com/VolgaCTF/2019-qualifier-theme.git"
   },
-  "author": "Alexander Pyatkin",
+  "author": "VolgaCTF",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VolgaCTF/quals-2018-volgactf-customizer/issues"
+    "url": "https://github.com/VolgaCTF/2019-qualifier-theme/issues"
   },
   "dependencies": {
     "axios": "^0.18.0",

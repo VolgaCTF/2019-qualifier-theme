@@ -9,14 +9,14 @@ app.use('/assets', assetsRouter)
 
 app.get('/metadata', function (req, res) {
   res.json({
-    name: 'quals-2018-volgactf-customizer',
-    version: '0.1.0'
+    name: '2019-qualifier-theme',
+    version: '1.0.0'
   })
 })
 
 app.get('/event-title', function (req, res) {
   res.set('Content-Type', 'text/plain')
-  res.send('VolgaCTF 2018 Quals')
+  res.send('VolgaCTF 2019 Qualifier')
 })
 
 module.exports = app

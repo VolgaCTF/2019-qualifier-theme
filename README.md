@@ -1,3 +1,5 @@
 # VolgaCTF 2019 Qualifier theme
 
-**WIP**
+## License
+MIT @ [VolgaCTF](https://github.com/VolgaCTF)
+
